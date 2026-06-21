@@ -9,8 +9,8 @@
 Junlin Xie, Quanlong Zheng, Ruifei Zhang, Yanhao Zhang, Xiang Wan, Guanbin Li
   
 - A retrieval-augmented framework for **streaming video question answering**, enabling low-latency, high-accuracy real-time video understanding via stream event segmentation, a token-reusing accelerator, and a dynamic retrieval gate
-- Done during my **research internship at OPPO**
-- Deployed in **OPPO's AI Real-Scene Dialogue** feature ([promo video](https://www.bilibili.com/video/BV1BwBxBhEkb/))
+- **Industry Impact**: Developed during my research internship at OPPO and deployed in OPPO's **AI Real-Scene Dialogue** feature ([Demo](https://www.bilibili.com/video/BV1BwBxBhEkb/)).
+
 
 </div>
 </div> 
@@ -33,16 +33,15 @@ Junlin Xie, Ruifei Zhang, Quanlong Zheng, Yanhao Zhang, Xiang Wan, Guanbin Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Spotlight Benchmark</div><img src='images/6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Visual Intelligence 2025</div><img src='images/6.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Large Multimodal Agents: A Survey](https://arxiv.org/abs/2402.15116)\\
 Junlin Xie, Ruifei Zhang, Quanlong Zheng, Yanhao Zhang, Xiang Wan, Guanbin Li
-- The first systematic survey on **LLM-driven multimodal agents (LMAs)**
-- Proposes four core components (perception / planning / action / memory) and a unified taxonomy & evaluation framework
-- Maintains the [Awesome-LMA resource list](https://github.com/jun0wanan/awesome-large-multimodal-agents)
-- Featured by [**AINLP**](https://mp.weixin.qq.com/s/lucGhu5-IPjIKbZ2o1q-PQ)
-- Live citations on [Google Scholar](https://scholar.google.com/scholar?cluster=170064654393669266)
+[![Citations](https://img.shields.io/badge/dynamic/json?label=Citations&query=%24.citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FarXiv%3A2402.15116%3Ffields%3DcitationCount&color=8A2BE2&logo=googlescholar)](https://scholar.google.com/scholar?cluster=170064654393669266)
+- The **first systematic survey** on LLM-driven multimodal agents (LMAs), proposing four core components (perception / planning / action / memory) with a unified taxonomy and evaluation framework.
+- **Academic Impact**: Interpreted by AI media such as [AINLP](https://mp.weixin.qq.com/s/lucGhu5-IPjIKbZ2o1q-PQ); we maintain the companion [Awesome-LMA](https://github.com/jun0wanan/awesome-large-multimodal-agents) resource list (490+ stars).
+
   
 </div>
 </div>
