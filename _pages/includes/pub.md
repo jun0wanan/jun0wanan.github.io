@@ -3,7 +3,7 @@
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/3.png' alt="sym" width="100%"></div></div>
  <div class='paper-box-text' markdown="1">
-[StreamSpatial: A Benchmark and Framework for Streaming 3D Visual-Spatial Reasoning] \\
+[StreamSpatial: A Benchmark and Framework for Streaming 3D Visual-Spatial Reasoning]() \\
 Junlin Xie, Keyang Zhong, Quanlong Zheng, Yanhao Zhang, Xiang Wan, Guanbin Li
 
 </div>
@@ -17,12 +17,12 @@ Junlin Xie, Quanlong Zheng, Ruifei Zhang, Yanhao Zhang, Xiang Wan, Guanbin Li
 </div>
 </div> 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 Benchmark&Datasets</div><img src='images/4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Spotlight Benchmark</div><img src='images/5.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [WhodunitBench: Evaluating Large Multimodal Agents via Murder Mystery Games](https://neurips.cc/virtual/2024/poster/97492) <span class="badge-spotlight">★ Spotlight</span> \\
 Junlin Xie, Ruifei Zhang, Quanlong Zheng, Yanhao Zhang, Xiang Wan, Guanbin Li
-
+[![GitHub](https://img.shields.io/github/stars/jun0wanan/WhodunitBench-Murder_Mystery_Games?style=social)](https://github.com/jun0wanan/WhodunitBench-Murder_Mystery_Games)
 </div>
 </div>
 
