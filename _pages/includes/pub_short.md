@@ -8,5 +8,6 @@ My full paper list is shown at [my personal homepage](https://scholar.google.com
 - [Collaborative Multi-Agent Scripts Generation for Enhancing Imperfect-Information Reasoning in Murder Mystery Games](https://arxiv.org/abs/2604.11741), Keyang Zhong, **Junlin Xie**, Guanbin Li, ACL Fingding 2026
 - [Free-MoRef: Instantly Multiplexing Context Perception Capabilities of Video-MLLMs within Single Inference](https://openaccess.thecvf.com/content/ICCV2025/html/Wang_Free-MoRef_Instantly_Multiplexing_Context_Perception_Capabilities_of_Video-MLLMs_within_Single_ICCV_2025_paper.html), Kuo Wang, Quanlong Zheng, **Junlin Xie**, Yanhao Zhang, Haonan Lu, Guanbin Li, ICCV 2025
 - [H2vu-benchmark: A comprehensive benchmark for hierarchical holistic video understanding](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=J5u9QCQAAAAJ&citation_for_view=J5u9QCQAAAAJ:qjMakFHDy7sC), Qi Wu, Quanlong Zheng, Yanhao Zhang, **Junlin Xie**, Ru Zhen, Haonan Lu, Arxiv 2025
+- [Compositional temporal grounding with structured variational cross-graph correspondence learning](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Compositional_Temporal_Grounding_With_Structured_Variational_Cross-Graph_Correspondence_Learning_CVPR_2022_paper.html), Juncheng Li, **Junlin Xie**, Siliang Tang, Linchao Zhu, EricXin Wang, CVPR 2022
 
 
