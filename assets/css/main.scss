@@ -83,6 +83,19 @@
         }
 
     }
+    .badge-spotlight {
+      display: inline-block;
+      margin-left: 6px;
+      padding: 1px 9px;
+      font-size: 12px;
+      font-weight: 700;
+      color: #7a4f01;
+      background: linear-gradient(135deg, #ffe27a, #ffc02e);
+      border-radius: 10px;
+      box-shadow: 0 0 6px rgba(255, 192, 46, 0.7);
+      vertical-align: middle;
+      white-space: nowrap;
+    }
 
 
 }
