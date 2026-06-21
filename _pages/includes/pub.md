@@ -40,7 +40,7 @@ Junlin Xie, Ruifei Zhang, Quanlong Zheng, Yanhao Zhang, Xiang Wan, Guanbin Li
 Junlin Xie, Ruifei Zhang, Quanlong Zheng, Yanhao Zhang, Xiang Wan, Guanbin Li
 [![Citations](https://img.shields.io/badge/dynamic/json?label=Citations&query=%24.citationCount&url=https%3A%2F%2Fapi.semanticscholar.org%2Fgraph%2Fv1%2Fpaper%2FarXiv%3A2402.15116%3Ffields%3DcitationCount&color=8A2BE2&logo=googlescholar)](https://scholar.google.com/scholar?cluster=170064654393669266)
 - The **first systematic survey** on LLM-driven multimodal agents (LMAs), proposing four core components (perception / planning / action / memory) with a unified taxonomy and evaluation framework.
-- **Academic Impact**: Interpreted by AI media such as [AINLP](https://mp.weixin.qq.com/s/lucGhu5-IPjIKbZ2o1q-PQ); we maintain the companion [Awesome-LMA](https://github.com/jun0wanan/awesome-large-multimodal-agents) resource list (490+ stars).
+- **Academic Impact**: Interpreted by AI media such as [AINLP](https://mp.weixin.qq.com/s/lucGhu5-IPjIKbZ2o1q-PQ); we maintain the companion [Awesome-LMA](https://github.com/jun0wanan/awesome-large-multimodal-agents) resource list[![GitHub stars](https://img.shields.io/github/stars/jun0wanan/awesome-large-multimodal-agents?style=social)](https://github.com/jun0wanan/awesome-large-multimodal-agents).
 
   
 </div>
